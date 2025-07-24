@@ -3,7 +3,7 @@ Uma aplicação de desktop desenvolvida em Python para automatizar a análise de
 
 Screenshot da Aplicação
 
-![iamgem da tela principal da aplicacao](janela.PNG)
+![iamgem da tela principal da aplicacao](screenshot.png)
 
 Com certeza! Apresentar um projeto no GitHub com uma documentação clara e profissional é uma habilidade essencial para um engenheiro de computação e valoriza imensamente seu portfólio.
 
