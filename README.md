@@ -52,5 +52,5 @@ Execute o arquivo. Não é necessária nenhuma instalação.
 
 Autor
 Pablo Novais
-github.com/pablo-novais
-linkedin.com/in/pablonovaisramos
+https://www.github.com/pablo-novais
+https://www.linkedin.com/in/pablonovaisramos
